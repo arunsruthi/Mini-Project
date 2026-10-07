@@ -1,30 +1,31 @@
 # Mini-Project
-#<u><B>Topic</B></u><br><br><br>
-AI USAGE AND IMPACT<br><br>
+<u><B>Topic</B></u><br><br><br>
+<b>AI USAGE AND IMPACT<<b></b>br><br>
+<b>Introduction</b><br><br>
 Dataset focuses on understanding how people use Artificial Intelligence tools in their education, work, and daily activities. The dataset includes both students and professionals, allowing us to compare their AI usage patterns and understand how AI affects different groups of users. It contains demographic information such as age, gender, country, education level, and profession, along with information about income and the type of user
 <br><br>
 <b>DASHBOARD</b>
 <br><br>
 
 <b>Cards</b><br><br>
-•	Total Users (988): Represents the complete operational sample size tracked in the underlying dataset.
-•	Total Monthly Cost ($9.52K): The collective financial investment allocated across all monitored AI platforms.
-•	Average AI Usage (2.79 Hours/Day): The mean time spent utilizing artificial intelligence tools per individual per day.
-•	Total Professional (472 Users): Count of workforce-employed professionals actively operating within the dataset.
-•	Total Students (516 Users): Count of academic student accounts captured in the study.
-•	Average of Productivity (5.04 / 10.00):
-The normalized baseline productivity improvement rating calculated across all systems.
+•	Total Users (988): Represents the complete operational sample size tracked in the underlying dataset.<br>
+•	Total Monthly Cost ($9.52K): The collective financial investment allocated across all monitored AI platforms.<br>
+•	Average AI Usage (2.79 Hours/Day): The mean time spent utilizing artificial intelligence tools per individual per day.<br>
+•	Total Professional (472 Users): Count of workforce-employed professionals actively operating within the dataset.<br>
+•	Total Students (516 Users): Count of academic student accounts captured in the study.<br>
+•	Average of Productivity (5.04 / 10.00):<br>
+The normalized baseline productivity improvement rating calculated across all systems.<br>
 
 <b> Slicer</b><br><br>
- Allows dynamic row-level filtering of the data based on user demography. End-users can dissect the charts instantly by selecting specific values for AI_Purpose, Country, Education_Level, User_Type, and Gender.
+ Allows dynamic row-level filtering of the data based on user demography. <br>End-users can dissect the charts instantly by selecting specific values for AI_Purpose, Country, Education_Level, User_Type, and Gender.
 
 <b>AI Tool Adoption Of Users</b><br><br>
-•	Clustered Column Chart.
- Ranks the volume of users active on each platform.
-•	Key Finding: Chat GPT dominates market penetration with 411 users, followed by Google Gemini (139 users), Microsoft Copilot (104 users), Claude (97 users), and Perplexity AI (85 users)<br><br>
+•	Clustered Column Chart.<br>
+ Ranks the volume of users active on each platform.<br>
+<br><br>
 <b>Monthly AI Cost Analysis</B>
-•	Funnel Chart.
-•	Functional Purpose: Illustrates financial expenditure concentration down the stack relative to the maximum tier baseline (100%).
+•	Funnel Chart.<br>
+ Illustrates financial expenditure concentration down the stack relative to the maximum tier baseline (100%).<br>
 
 <b>Productivity Score and Satisfaction Score</b><br><br>
  Side-by-Side Dual Column Chart.
