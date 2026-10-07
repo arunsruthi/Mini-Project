@@ -1,4 +1,6 @@
 # Mini-Project
+<b>Drive Link</b><br><br>
+https://drive.google.com/drive/folders/17L1b-z-8Etv9MjYqgcWn7xXd7X_KU06r?usp=drive_link<br>
 <u><B>Topic</B></u><br><br><br>
 <b>AI USAGE AND IMPACT</b><br><br>
 <b>Introduction</b><br><br>
